@@ -1,0 +1,14 @@
+{
+    "name": "nolo/dummy",
+    "description": "A dummy package to reserve nolo vendor for Nolo account",
+    "type": "library",
+    "keywords": ["nolo", "dummy"],
+    "homepage": "https://github.com/internetbrands/nolo-dummy-composer-package.git",
+    "authors": [
+        {
+            "name": "nolo",
+            "email": "admin@nolo.com"
+        }
+    ],
+    "require": {}
+}
